@@ -61,3 +61,6 @@
 [submodule "3-therain7"]
 	path = 3-therain7
 	url = git@github.com:spbu-coding-2022/3-therain7.git
+[submodule "3-twotwozeronine"]
+	path = 3-twotwozeronine
+	url = git@github.com:spbu-coding-2022/3-twotwozeronine.git
