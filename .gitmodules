@@ -7,3 +7,6 @@
 [submodule "3-Artem-Rzhankoff"]
 	path = 3-Artem-Rzhankoff
 	url = git@github.com:spbu-coding-2022/3-Artem-Rzhankoff.git
+[submodule "3-LeonidElkin"]
+	path = 3-LeonidElkin
+	url = git@github.com:spbu-coding-2022/3-LeonidElkin.git
