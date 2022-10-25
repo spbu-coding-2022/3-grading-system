@@ -85,3 +85,6 @@
 [submodule "3-osogi"]
 	path = 3-osogi
 	url = git@github.com:spbu-coding-2022/3-osogi.git
+[submodule "3-sokolovskiy-ilya"]
+	path = 3-sokolovskiy-ilya
+	url = git@github.com:spbu-coding-2022/3-sokolovskiy-ilya.git
