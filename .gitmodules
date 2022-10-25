@@ -73,3 +73,6 @@
 [submodule "3-ArtyomProkopets"]
 	path = 3-ArtyomProkopets
 	url = git@github.com:spbu-coding-2022/3-ArtyomProkopets.git
+[submodule "3-GryaznovAS"]
+	path = 3-GryaznovAS
+	url = git@github.com:spbu-coding-2022/3-GryaznovAS.git
