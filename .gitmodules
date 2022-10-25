@@ -40,3 +40,6 @@
 [submodule "3-ancavar"]
 	path = 3-ancavar
 	url = git@github.com:spbu-coding-2022/3-ancavar.git
+[submodule "3-gladiuswq"]
+	path = 3-gladiuswq
+	url = git@github.com:spbu-coding-2022/3-gladiuswq.git
