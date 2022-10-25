@@ -49,3 +49,6 @@
 [submodule "3-mloleg"]
 	path = 3-mloleg
 	url = git@github.com:spbu-coding-2022/3-mloleg.git
+[submodule "3-nemakin"]
+	path = 3-nemakin
+	url = git@github.com:spbu-coding-2022/3-nemakin.git
