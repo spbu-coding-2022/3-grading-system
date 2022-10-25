@@ -79,3 +79,6 @@
 [submodule "3-PavlushaSource"]
 	path = 3-PavlushaSource
 	url = git@github.com:spbu-coding-2022/3-PavlushaSource.git
+[submodule "3-ftimotin"]
+	path = 3-ftimotin
+	url = git@github.com:spbu-coding-2022/3-ftimotin.git
