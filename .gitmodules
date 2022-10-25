@@ -25,3 +25,6 @@
 [submodule "3-RozhkovAleksandr"]
 	path = 3-RozhkovAleksandr
 	url = git@github.com:spbu-coding-2022/3-RozhkovAleksandr.git
+[submodule "3-SurfaceYellowDuck"]
+	path = 3-SurfaceYellowDuck
+	url = git@github.com:spbu-coding-2022/3-SurfaceYellowDuck.git
