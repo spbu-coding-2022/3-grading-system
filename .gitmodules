@@ -34,3 +34,6 @@
 [submodule "3-YazoonDinalt"]
 	path = 3-YazoonDinalt
 	url = git@github.com:spbu-coding-2022/3-YazoonDinalt.git
+[submodule "3-aartdem"]
+	path = 3-aartdem
+	url = git@github.com:spbu-coding-2022/3-aartdem.git
