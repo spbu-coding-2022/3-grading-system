@@ -28,3 +28,6 @@
 [submodule "3-SurfaceYellowDuck"]
 	path = 3-SurfaceYellowDuck
 	url = git@github.com:spbu-coding-2022/3-SurfaceYellowDuck.git
+[submodule "3-Urtix"]
+	path = 3-Urtix
+	url = git@github.com:spbu-coding-2022/3-Urtix.git
