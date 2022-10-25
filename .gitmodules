@@ -43,3 +43,6 @@
 [submodule "3-gladiuswq"]
 	path = 3-gladiuswq
 	url = git@github.com:spbu-coding-2022/3-gladiuswq.git
+[submodule "3-ksenmel"]
+	path = 3-ksenmel
+	url = git@github.com:spbu-coding-2022/3-ksenmel.git
