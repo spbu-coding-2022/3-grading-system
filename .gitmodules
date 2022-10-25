@@ -76,3 +76,6 @@
 [submodule "3-GryaznovAS"]
 	path = 3-GryaznovAS
 	url = git@github.com:spbu-coding-2022/3-GryaznovAS.git
+[submodule "3-PavlushaSource"]
+	path = 3-PavlushaSource
+	url = git@github.com:spbu-coding-2022/3-PavlushaSource.git
