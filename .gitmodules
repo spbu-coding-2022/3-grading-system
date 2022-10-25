@@ -58,3 +58,6 @@
 [submodule "3-tepa46"]
 	path = 3-tepa46
 	url = git@github.com:spbu-coding-2022/3-tepa46.git
+[submodule "3-therain7"]
+	path = 3-therain7
+	url = git@github.com:spbu-coding-2022/3-therain7.git
