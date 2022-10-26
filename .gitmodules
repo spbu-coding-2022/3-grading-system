@@ -88,3 +88,6 @@
 [submodule "3-sokolovskiy-ilya"]
 	path = 3-sokolovskiy-ilya
 	url = git@github.com:spbu-coding-2022/3-sokolovskiy-ilya.git
+[submodule "3-Alabs1"]
+	path = 3-Alabs1
+	url = git@github.com:spbu-coding-2022/3-Alabs1.git
