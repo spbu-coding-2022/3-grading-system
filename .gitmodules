@@ -94,3 +94,6 @@
 [submodule "3-Kuarni"]
 	path = 3-Kuarni
 	url = git@github.com:spbu-coding-2022/3-Kuarni.git
+[submodule "3-VsevolodPotylkin"]
+	path = 3-VsevolodPotylkin
+	url = git@github.com:spbu-coding-2022/3-VsevolodPotylkin.git
