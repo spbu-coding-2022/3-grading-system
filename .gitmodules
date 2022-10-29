@@ -112,3 +112,6 @@
 [submodule "3-RoketFlame"]
 	path = 3-RoketFlame
 	url = git@github.com:spbu-coding-2022/3-RoketFlame.git
+[submodule "3-SakievMansur"]
+	path = 3-SakievMansur
+	url = git@github.com:spbu-coding-2022/3-SakievMansur.git
