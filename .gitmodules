@@ -109,3 +109,6 @@
 [submodule "3-ItIsMrLaG"]
 	path = 3-ItIsMrLaG
 	url = git@github.com:spbu-coding-2022/3-ItIsMrLaG.git
+[submodule "3-RoketFlame"]
+	path = 3-RoketFlame
+	url = git@github.com:spbu-coding-2022/3-RoketFlame.git
